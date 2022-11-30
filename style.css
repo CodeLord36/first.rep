@@ -8,6 +8,7 @@
     color: hsl(228, 45%, 44%);
 }
 
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
 body {
     background-color: hsl(212, 45%, 89%);
     min-height: 100vh;
@@ -26,6 +27,7 @@ body {
 .caption {
     font-family: "Outfit", Serif;
     text-align: center;
+    font-weight: 400;
 }
 
 img {
@@ -41,5 +43,3 @@ p {
     color: hsl(220, 15%, 55%);
     font-size: 15px;
 }
-
-@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
