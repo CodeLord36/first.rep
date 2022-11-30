@@ -1,0 +1,45 @@
+.attribution {
+    font-size: 11px;
+    text-align: center;
+    padding-top: 10rem;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
+
+body {
+    background-color: hsl(212, 45%, 89%);
+    min-height: 100vh;
+    max-width: 350px;
+    padding-top: 10rem;
+    margin: auto;
+}
+
+.container {
+    background-color: white;
+    padding: 15px;
+    border-radius: 1.5rem;
+    text-align: center;
+}
+
+.caption {
+    font-family: "Outfit", Serif;
+    text-align: center;
+}
+
+img {
+    border-radius: 1.5rem;
+    width: 320px;
+}
+
+h1 {
+    color: hsl(218, 44%, 22%);
+}
+
+p {
+    color: hsl(220, 15%, 55%);
+    font-size: 15px;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
